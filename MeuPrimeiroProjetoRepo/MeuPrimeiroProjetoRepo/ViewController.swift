@@ -8,14 +8,14 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-  override func viewDidLoad() {
-    super.viewDidLoad()
-    view.backgroundColor = .red
-
-
-    // primeira alteração
-  }
-
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        view.backgroundColor = .red
+        
+        // segunda alteração
+        // primeira alteração
+    }
+    
 }
 
